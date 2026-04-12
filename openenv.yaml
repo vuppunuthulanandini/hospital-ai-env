@@ -2,6 +2,10 @@
 name: hospital_resource_env
 description: Optimize hospital resource allocation
 
+entrypoint: inference.py
+
+protocol: openai
+
 endpoints:
   reset: /reset
   step: /step

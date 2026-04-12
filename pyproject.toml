@@ -1,0 +1,9 @@
+[project]
+name = "hospital"
+version = "0.1.0"
+dependencies = [
+    "openenv-core>=0.2.0"
+]
+
+[project.scripts]
+server = "server.app:main"
