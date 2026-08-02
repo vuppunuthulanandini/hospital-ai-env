@@ -1,4 +1,4 @@
-environment
+
 🏥 Hospital Resource Optimization Environment
 Every second counts, every bed matters, and you're the one deciding who gets what — and when.
 
